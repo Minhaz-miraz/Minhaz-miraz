@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm <h1>Minhajul Islam Miraz</h1>  from <h1>Dhaka,Bangladesh</h1>
+i'm <b>Minhajul Islam Miraz</b>  from <b>Dhaka,Bangladesh</b>
 
 
 ## 🌐 Socials:
