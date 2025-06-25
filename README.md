@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I'm <bold>Minhajul Islam Miraz</bold>  from <bold>Dhaka, Bangladesh</bold>. Currently pursuing my B.Sc in Environmental Science and Disaster Management while accelerating my learning in modern web development technologies. Outside of coding, I'm a passionate <bold>long-distance runner</bold> with aspirations to compete in international marathons."
+"I'm <b>Minhajul Islam Miraz</b>  from <bold>Dhaka, Bangladesh</bold>. Currently pursuing my B.Sc in Environmental Science and Disaster Management while accelerating my learning in modern web development technologies. Outside of coding, I'm a passionate <b>long-distance runner</b> with aspirations to compete in international marathons."
 
 
 ## 🌐 Socials:
