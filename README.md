@@ -70,8 +70,8 @@
 <div align="center">
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true"><br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&layout=compact" />><br>
- <div >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&layout=compact" /><br>
+ <div>
 </div>
 </div>
 
