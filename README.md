@@ -65,6 +65,16 @@
 </table>
 
 # Stats
+<table>
+  <tbody>
+  <tr>
+    <td align="center>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="minhaz-miraz's GitHub Stats" />
+    </td>
+  </tr>
+  
+</tbody>
+</table>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="minhaz-miraz's GitHub Stats" />
 
 ---
