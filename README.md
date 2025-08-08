@@ -2,8 +2,6 @@
 "I'm <b>Minhajul Islam Miraz</b>  from <bold>Dhaka, Bangladesh</bold>. Currently pursuing my B.Sc in Environmental Science and Disaster Management while accelerating my learning in modern web development technologies. Outside of coding, I'm a passionate <b>long-distance runner</b> with aspirations to compete in international marathons."
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minhajul-islam-miraz/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Minhajul-Miraz-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhajulmiraz28@gmail.com) 
 
 <table  align="center">
   <tbody>
