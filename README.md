@@ -66,19 +66,19 @@
 
 # Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="minhaz-miraz's GitHub Stats" />
+<div  >
+<div align="center">
 
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="minhaz-miraz's GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true"><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&layout=compact" />><br>
+ <div >
+</div>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Minhaz-Miraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=Minhaz-Miraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
