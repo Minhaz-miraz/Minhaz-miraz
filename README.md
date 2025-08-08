@@ -68,7 +68,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="minhaz-miraz's GitHub Stats" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Minhaz-Miraz&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-miraz&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="minhaz-miraz's GitHub Stats" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Minhaz-Miraz&icon=0&color=0)](https://visitcount.itsvg.in)
