@@ -1,5 +1,8 @@
-# 💫 About Me:
-"I'm <b>Minhajul Islam Miraz</b>  from <bold>Dhaka, Bangladesh</bold>. Currently pursuing my B.Sc in Environmental Science and Disaster Management while accelerating my learning in modern web development technologies. Outside of coding, I'm a passionate <b>long-distance runner</b> with aspirations to compete in international marathons."
+# Let Section = "Myself"
+<h1 align="center">Hi 👋, I'm Minhajul Miraz</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+display&weight=800&size=70&duration=2000&pause=1000&color=F0F700&width=700&height=200&lines=MERN+Stack+Develeoper+%F0%9F%9A%80;Building+Scalable+Web+Solutions+%26+Real+World+Application;Passionate+About+Turning+Ideas+into+Functional+Products+%F0%9F%92%A1)](https://git.io/typing-svg" />
+</p>
 
 # Technologies
 
