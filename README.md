@@ -1,4 +1,4 @@
-# Let Section = "Myself"
+# Myself
 <h1 align="center">Hi 👋, I'm Minhajul Miraz</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=36BCF7&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Solutions+%26+Real-World+Applications+%F0%9F%8C%90;Passionate+About+Turning+Ideas+into+Functional+Products+%F0%9F%92%A1" alt="Typing SVG"/>
