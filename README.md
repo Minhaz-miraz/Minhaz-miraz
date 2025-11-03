@@ -67,6 +67,16 @@
   </tbody>
 </table>
 
+
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Minhaz-Miraz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views counter" />
+</p>
+### 🗺️ Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhaz-Miraz&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
 # Stats
 
 <div  >
